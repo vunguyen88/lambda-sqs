@@ -35,7 +35,7 @@ def lambda_handler(event, context):
     #     from_="+14073781169",
     #     body="Hello from Python!")
 
-    # print(message.sid)
+    # print(message.sid)#
 
     return {
         "statusCode": 200,
